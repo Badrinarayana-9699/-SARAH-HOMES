@@ -41,9 +41,7 @@ https://sarahhomes.netlify.app/
 
 ```
 sarah-homes/
- ├── index.html
- ├── style.css
- └── script.js
+ ├── SARAH_HOMES.html
 ```
 
 ##  Contact
