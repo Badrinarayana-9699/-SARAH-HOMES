@@ -24,13 +24,13 @@ https://sarahhomes.netlify.app/
 * CSS
 * JavaScript
 
-## 📌 Key Functionalities
+##  Key Functionalities
 
 * Users can browse properties
 * Chatbot assists with basic queries
 * Direct WhatsApp redirection for leads
 
-## 🔧 Future Improvements
+##  Future Improvements
 
 * Improve AI chatbot responses
 * Add real property data integration
@@ -41,7 +41,7 @@ https://sarahhomes.netlify.app/
 
 ```
 sarah-homes/
- ├── SARAH_HOMES.html
+ ├── index.html
 ```
 
 ##  Contact
