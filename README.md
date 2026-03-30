@@ -16,7 +16,7 @@ Sarah Homes is a modern real estate website designed to showcase properties and 
 
 ##  Live Website
 
-https://sarahhomes.netlify.app/
+https://sarah-home.netlify.app/ 
 
 ##  Technologies Used
 
